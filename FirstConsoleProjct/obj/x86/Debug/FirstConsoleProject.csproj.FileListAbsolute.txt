@@ -1,0 +1,4 @@
+C:\Users\ebrah\Documents\Projects\FirstConsoleProject\FirstConsoleProject\bin\Debug\FirstConsoleProject.exe
+C:\Users\ebrah\Documents\Projects\FirstConsoleProject\FirstConsoleProject\bin\Debug\FirstConsoleProject.pdb
+C:\Users\ebrah\Documents\Projects\FirstConsoleProject\FirstConsoleProject\obj\x86\Debug\FirstConsoleProject.exe
+C:\Users\ebrah\Documents\Projects\FirstConsoleProject\FirstConsoleProject\obj\x86\Debug\FirstConsoleProject.pdb
